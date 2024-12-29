@@ -1,5 +1,6 @@
 body {
     font-family:Christmas ScriptC ;
+    font-size:36px;
 }
 
 header {
@@ -28,7 +29,7 @@ nav a {
     width: 80%;
     height:80%
 h1 {
-    font-size: 36px;
+    font-size: 70px;
     color: black;
     font-weight: normal;
     padding-bottom: 5px;
