@@ -1,1 +1,58 @@
+body {
+    font-family:Christmas ScriptC ;
+}
 
+header {
+    background-color: white;
+    padding: 5px;
+    text-align: center;
+}
+.logo
+{
+width: 209px;
+height: 167px;
+}
+
+nav{
+  margin: 10px; 
+  text-align: center;
+}
+
+nav a {
+   text-decoration: none;
+   padding-right: 60px;
+   color:black;
+}
+
+.main_img{
+    width: 100%;
+    height: 30%;
+}
+
+h1 {
+    font-size: 36px;
+    color: black;
+    font-weight: normal;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+
+footer {
+    background-color: white;
+    padding: 10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+ }
+
+footer a {
+background-color: red;
+color:white;
+text-decoration: none;
+font-size: 16px;
+padding: 10px 25px;
+border-radius: 10px;
+}
